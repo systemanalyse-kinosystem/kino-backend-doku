@@ -1,2 +1,2 @@
 # kino-backend-doku
-API Dokumentation für das Backend
+Die Backend API Doku befindet sich hier: <https://gitlab.com/lumaghg/kino-backend-doku/-/tree/main>
